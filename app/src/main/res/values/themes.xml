@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DotaPro" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/dp_navy</item>
+        <item name="colorOnPrimary">@color/dp_white</item>
+        <item name="colorSecondary">@color/dp_orange</item>
+        <item name="android:statusBarColor">@color/dp_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/dp_bg</item>
+    </style>
+</resources>

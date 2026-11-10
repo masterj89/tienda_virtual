@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dp_navy">#1E3A5F</color>
+    <color name="dp_orange">#F28C28</color>
+    <color name="dp_white">#FFFFFF</color>
+    <color name="dp_bg">#F4F6FA</color>
+    <color name="dp_gray">#6B7A90</color>
+    <color name="dp_stroke">#E3E8F0</color>
+    <color name="dp_green">#2E9F6B</color>
+    <color name="dp_red">#E04848</color>
+    <color name="dp_blue_light">#DCE6F5</color>
+</resources>
